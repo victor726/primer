@@ -29,6 +29,7 @@ gem 'spring',        group: :development
 # gem 'bootstap-sass', github: 'twbs/bootstrap-sass', branch: '3.3.1'
 gem 'bootstrap-sass', '~> 3.3.1'
 gem 'autoprefixer-rails'
+gem 'devise', '~> 3.4.1'
 
 group :development, :test do
      gem 'sqlite3'
